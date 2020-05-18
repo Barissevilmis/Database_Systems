@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.junit.platform:junit-platform-engine:1.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.junit.platform/junit-platform-engine/jars/junit-platform-engine-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.junit.platform/junit-platform-engine/srcs/junit-platform-engine-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

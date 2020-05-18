@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="717b9c7e-e3b5-413f-985f-d69aa4ef0267" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YqxNYD6dC25nwBcE0sdo6gJump" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://gitlab.epfl.ch/DIAS/COURSES/CS-422/2020/students/Project-2-group-2.git" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.QueryTest">
+    <configuration name="QueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.epfl.dias.cs422.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.epfl.dias.cs422" />
+      <option name="MAIN_CLASS_NAME" value="ch.epfl.dias.cs422.QueryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="late-operator-at-a-time (column store)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.epfl.dias.cs422.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.epfl.dias.cs422" />
+      <option name="MAIN_CLASS_NAME" value="ch.epfl.dias.cs422.QueryTest" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:ch.epfl.dias.cs422.QueryTest]/[test-factory:tests()]/[dynamic-container:#8]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q02.sql" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.epfl.dias.cs422.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.epfl.dias.cs422" />
+      <option name="MAIN_CLASS_NAME" value="ch.epfl.dias.cs422.QueryTest" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:ch.epfl.dias.cs422.QueryTest]/[test-factory:tests()]/[dynamic-container:#1]/[dynamic-container:#3]/[dynamic-container:#1]/[dynamic-test:#2]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q17.sql (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.epfl.dias.cs422.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.epfl.dias.cs422" />
+      <option name="MAIN_CLASS_NAME" value="ch.epfl.dias.cs422.QueryTest" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:ch.epfl.dias.cs422.QueryTest]/[test-factory:tests()]/[dynamic-container:#1]/[dynamic-container:#3]/[dynamic-container:#1]/[dynamic-test:#8]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="q17.sql" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.epfl.dias.cs422.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ch.epfl.dias.cs422" />
+      <option name="MAIN_CLASS_NAME" value="ch.epfl.dias.cs422.QueryTest" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:ch.epfl.dias.cs422.QueryTest]/[test-factory:tests()]/[dynamic-container:#1]/[dynamic-container:#3]/[dynamic-container:#1]/[dynamic-test:#8]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QueryTest" />
+        <item itemvalue="JUnit.late-operator-at-a-time (column store)" />
+        <item itemvalue="JUnit.q02.sql" />
+        <item itemvalue="JUnit.q17.sql" />
+        <item itemvalue="JUnit.q17.sql (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="project-1" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="project-1-sevilmis [file:/Users/barissevilmis/IdeaProjects/Project-1-sevilmis/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="project-1-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6334735503109" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1831796300" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2134611975" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="982971008" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="717b9c7e-e3b5-413f-985f-d69aa4ef0267" name="Default Changelist" comment="" />
+      <created>1583683885514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583683885514</updated>
+      <workItem from="1583683891283" duration="266000" />
+      <workItem from="1583684483894" duration="110000" />
+      <workItem from="1583701543606" duration="1140000" />
+      <workItem from="1583765883225" duration="5586000" />
+      <workItem from="1583932010243" duration="6658000" />
+      <workItem from="1583945089678" duration="12550000" />
+      <workItem from="1584140071473" duration="115000" />
+      <workItem from="1584266793432" duration="6287000" />
+      <workItem from="1584305442708" duration="12402000" />
+      <workItem from="1584364675341" duration="15480000" />
+      <workItem from="1584436721548" duration="14052000" />
+      <workItem from="1584469278318" duration="3628000" />
+      <workItem from="1584547157327" duration="8420000" />
+      <workItem from="1584567730498" duration="34282000" />
+      <workItem from="1584695060110" duration="13465000" />
+      <workItem from="1584802189691" duration="323000" />
+      <workItem from="1584983138774" duration="89000" />
+      <workItem from="1584989707738" duration="3004000" />
+      <workItem from="1585042337316" duration="1459000" />
+      <workItem from="1585060513557" duration="41326000" />
+      <workItem from="1585319321145" duration="2891000" />
+      <workItem from="1585561747019" duration="95000" />
+      <workItem from="1585568815449" duration="530000" />
+      <workItem from="1586344554710" duration="505000" />
+    </task>
+    <task id="LOCAL-00001" summary="All tests passed">
+      <created>1585213994113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585213994113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="All Tests passed, and Task3.pdf included">
+      <created>1585406170780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585406170780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All Tests passed, and Task2.pdf included">
+      <created>1585561810050</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585561810050</updated>
+    </task>
+    <task id="LOCAL-00004" summary="For convenience, instead of applying patch, if statement in PAXStore negated for.">
+      <created>1585569391730</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585569391730</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="All tests passed" />
+    <MESSAGE value="All Tests passed, and Task3.pdf included" />
+    <MESSAGE value="All Tests passed, and Task2.pdf included" />
+    <MESSAGE value="For convenience, instead of applying patch, if statement in PAXStore negated for." />
+    <option name="LAST_COMMIT_MESSAGE" value="For convenience, instead of applying patch, if statement in PAXStore negated for." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585183225690">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="212" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1585183225690" />
+    <state x="458" y="222" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.846@0.23.1440.846" timestamp="1584814555025" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583702594622">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1583702594622" />
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583766038635">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="185" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1583766038635" />
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1585569391228">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585569391228" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom" timestamp="1585569408541">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585569408541" />
+    <state width="1398" height="232" key="GridCell.Tab.0.bottom/0.23.1440.846@0.23.1440.846" timestamp="1585569072445" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center" timestamp="1585569408540">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585569408540" />
+    <state width="1398" height="232" key="GridCell.Tab.0.center/0.23.1440.846@0.23.1440.846" timestamp="1585569072442" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left" timestamp="1585569408539">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585569408539" />
+    <state width="1398" height="232" key="GridCell.Tab.0.left/0.23.1440.846@0.23.1440.846" timestamp="1585569072442" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right" timestamp="1585569408540">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585569408540" />
+    <state width="1398" height="232" key="GridCell.Tab.0.right/0.23.1440.846@0.23.1440.846" timestamp="1585569072443" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1584528799273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584528799273" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1584528799272">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584528799272" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1584528799272">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584528799272" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1584528799272">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584528799272" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1583701556126">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583701556126" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1585569400326">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585569400326" />
+    <state x="397" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1583932012484">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="272" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583932012484" />
+    <state x="375" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585186229761">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="375" y="72" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1585186229761" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585165515893">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1585165515893" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584618135960">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584618135960" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/ch/epfl/dias/cs422/helpers/store/RowStore.scala</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.ivy2/cache/org.apache.calcite/calcite-core/srcs/calcite-core-1.21.0-sources.jar!/org/apache/calcite/plan/RelOptTable.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

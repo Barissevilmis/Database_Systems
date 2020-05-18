@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.calcite.avatica:avatica-metrics:1.15.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.calcite.avatica/avatica-metrics/jars/avatica-metrics-1.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.calcite.avatica/avatica-metrics/srcs/avatica-metrics-1.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="project-1"
+		module="project-1_2.13"
+		revision="0.1"
+		status="integration"
+		publication="20200308220750"
+	>
+		<description>
+		project-1
+		</description>
+	</info>
+	<configurations>
+		<conf name="compile" visibility="public" description=""/>
+		<conf name="runtime" visibility="public" description="" extends="compile"/>
+		<conf name="test" visibility="public" description="" extends="runtime"/>
+		<conf name="provided" visibility="public" description=""/>
+		<conf name="optional" visibility="public" description=""/>
+		<conf name="compile-internal" visibility="private" description="" extends="compile,optional,provided"/>
+		<conf name="runtime-internal" visibility="private" description="" extends="runtime,optional"/>
+		<conf name="test-internal" visibility="private" description="" extends="test,optional,provided"/>
+		<conf name="plugin" visibility="private" description=""/>
+		<conf name="pom" visibility="public" description=""/>
+		<conf name="scala-tool" visibility="private" description=""/>
+	</configurations>
+	<publications>
+		<artifact name="project-1_2.13" type="pom" ext="pom" conf="pom"/>
+		<artifact name="project-1_2.13" type="jar" ext="jar" conf="compile"/>
+		<artifact name="project-1_2.13" type="src" ext="jar" conf="compile" e:classifier="sources"/>
+		<artifact name="project-1_2.13" type="doc" ext="jar" conf="compile" e:classifier="javadoc"/>
+	</publications>
+	<dependencies>
+		<dependency org="org.scala-lang" name="scala-compiler" rev="2.13.1" conf="scala-tool->default,optional(default)"/>
+		<dependency org="org.scala-lang" name="scala-library" rev="2.13.1" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="org.apache.calcite" name="calcite-core" rev="1.21.0" conf="compile->default(compile);test->default(compile)">
+			<artifact name="calcite-core" type="jar" ext="jar" conf="compile"/>
+			<artifact name="calcite-core" type="jar" ext="jar" conf="test" e:classifier="tests"/>
+		</dependency>
+		<dependency org="org.apache.calcite" name="calcite-example-csv" rev="1.21.0" conf="compile->default(compile)"/>
+		<dependency org="org.scala-lang" name="scala-reflect" rev="2.13.1" conf="compile->default(compile)"/>
+		<dependency org="org.apache.calcite" name="calcite-server" rev="1.21.0" conf="compile->default(compile)"/>
+		<dependency org="org.json4s" name="json4s-jackson_2.12" rev="3.5.3" conf="compile->default(compile)"/>
+		<dependency org="org.slf4j" name="slf4j-api" rev="1.7.13" conf="compile->default(compile)"/>
+		<dependency org="org.slf4j" name="slf4j-log4j12" rev="1.7.13" conf="compile->default(compile)"/>
+		<dependency org="org.apache.calcite.avatica" name="avatica-server" rev="1.15.0" conf="compile->default(compile)"/>
+		<dependency org="com.google.guava" name="guava" rev="19.0" conf="compile->default(compile)"/>
+		<dependency org="au.com.bytecode" name="opencsv" rev="2.4" conf="compile->default(compile)"/>
+		<dependency org="commons-io" name="commons-io" rev="2.4" conf="compile->default(compile)"/>
+		<dependency org="com.fasterxml.jackson.core" name="jackson-core" rev="2.9.4" conf="compile->default(compile)"/>
+		<dependency org="org.junit.jupiter" name="junit-jupiter-api" rev="5.3.1" conf="test->default(compile)"/>
+		<dependency org="org.junit.jupiter" name="junit-jupiter-params" rev="5.3.1" conf="test->default(compile)"/>
+		<dependency org="com.novocode" name="junit-interface" rev="0.11" conf="test->default(compile)"/>
+		<dependency org="net.aichler" name="jupiter-interface" rev="0.8.3" conf="test->default(compile)"/>
+	</dependencies>
+</ivy-module>
